@@ -2,41 +2,5 @@
   "androidVersion": "1.1",
   "androidChangedLog": "- Added Air Motions support\n- Added support for S24 Ultra",
   "windowsVersion": "1.0",
-  "windowsChangedLog": "- Added Air Motions support",
-  "fullCompatible": [
-    "SM-S908",
-    "SC-52C",
-    "SCG14",
-    "SM-S918",
-    "SM-N960",
-    "SM-N97",
-    "SM-N770",
-    "SM-N98",
-    "SM-T86",
-    "SM-T87",
-    "SM-T97",
-    "SM-X70",
-    "SM-X80",
-    "SM-X90",
-    "SM-X71",
-    "SM-X81",
-    "SM-X91"
-  ],
-  "partiallyCompatible": [
-    "SM-G998",
-    "SC-52B",
-    "SM-F926",
-    "SC-55B",
-    "SCG11",
-    "SM-F936",
-    "SCG16",
-    "SC-55C",
-    "SM-F946",
-    "SC-55D",
-    "SCG22",
-    "SM-T73",
-    "SM-X51",
-    "SM-X61",
-    "SCT22"
-  ]
+  "windowsChangedLog": "- Added Air Motions support"
 }
