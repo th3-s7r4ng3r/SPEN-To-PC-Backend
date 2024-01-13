@@ -1,6 +1,8 @@
 {
-  "androidVersion": "1.2",
+  "androidVersion": "1.1",
+  "androidChangedLog": "- Added Air Motions support\n- Added support for S24 Ultra",
   "windowsVersion": "1.0",
+  "windowsChangedLog": "- Added Air Motions support",
   "fullCompatible": [
     "SM-S908",
     "SC-52C",
