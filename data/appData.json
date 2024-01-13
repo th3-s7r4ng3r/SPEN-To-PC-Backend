@@ -1,6 +1,6 @@
 {
   "androidVersion": "1.1",
-  "androidChangedLog": "\t- Added Air Motions support\n\t- Support for S24 Ultra",
-  "windowsVersion": "1.0",
-  "windowsChangedLog": "- Added Air Motions support"
+  "androidChangedLog": "- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for app updates when launch",
+  "windowsVersion": "1.1",
+  "windowsChangedLog": "- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for app updates when launch"
 }
