@@ -1,6 +1,6 @@
 {
   "androidVersion": "1.1",
-  "androidChangedLog": "- Added Air Motions support\n- Added support for S24 Ultra",
+  "androidChangedLog": "\t- Added Air Motions support\n\t- Support for S24 Ultra",
   "windowsVersion": "1.0",
   "windowsChangedLog": "- Added Air Motions support"
 }
