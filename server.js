@@ -32,7 +32,7 @@ app.use(loadAppData);
 
 // Routes
 // Get app version
-app.get("/version", (req, res) => {
+app.get("/updates", (req, res) => {
   try {
     // Access users from the request object
     const data = req.appData;

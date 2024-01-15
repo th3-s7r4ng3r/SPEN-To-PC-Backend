@@ -1,6 +1,10 @@
 {
-  "androidVersion": "1.1",
-  "androidChangedLog": "- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for app updates when launch",
-  "windowsVersion": "1.1",
-  "windowsChangedLog": "- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for app updates when launch"
+  "androidVersion": "1.2",
+  "androidTitle": "Update Available!",
+  "androidMessage": "New version of the SPEN To PC has been released with following changes:\n\n- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for updates when launch\n\n Press \"Check for Updates\" to download",
+  "androidPositive": "OK",
+  "windowsVersion": "1.2",
+  "windowsTitle": "Update Available!",
+  "windowsMessage": "New version of the SPEN To PC has been released with following changes:\n\n- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for updates when launch\n\n Press \"Check for Updates\" to download",
+  "windowsPositive": "OK"
 }
