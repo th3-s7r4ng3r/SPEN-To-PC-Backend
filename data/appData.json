@@ -5,6 +5,6 @@
   "androidPositive": "OK",
   "windowsVersion": "1.1",
   "windowsTitle": "Update Available!",
-  "windowsMessage": "New version of the SPEN To PC has been released with following changes:\n\n- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for updates when launch\n\n Press \"Check for Updates\" to download from GitHub",
-  "windowsPositive": "OK"
+  "windowsMessage": "New version of the SPEN To PC has been released with following changes:",
+  "windowsPositive": "Accept"
 }
