@@ -1,10 +1,10 @@
 {
-  "androidVersion": "1.1",
+  "androidVersion": "1.1a",
   "androidTitle": "Update Available!",
-  "androidMessage": "New version of the SPEN To PC has been released with following changes:\n\n- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for updates when launch\n\n Press \"Check for Updates\" to download from GitHub",
+  "androidMessage": "New version of the SPEN To PC: Android app has been released with following changes:\n\n- Keep the device screen on while connected to the server\n- Added support for S24 Ultra\n\nPress \"Check for Updates\" to download from GitHub",
   "androidPositive": "OK",
   "windowsVersion": "1.1",
   "windowsTitle": "Update Available!",
-  "windowsMessage": "New version of the SPEN To PC has been released with following changes:\n\n- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for updates when launch\n\n Press \"Check for Updates\" in About page to download from GitHub",
+  "windowsMessage": "New version of the SPEN To PC: Windows app has been released with following changes:\n\n- Added Air Actions support for motion gestures (Swipe & Rotate)\n- Check for updates when launch\n\nPress \"Check for Updates\" in About page to download from GitHub",
   "windowsPositive": "OK"
 }
